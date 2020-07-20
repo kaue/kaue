@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://media2.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif?cid=790b7611njga5o14mbbve9wf9ax2vtbscm7oh2hs7zz79re5&rid=giphy.gif)
+### Hi there 👋 ![](https://media0.giphy.com/media/hp4AjXQLO4s0hewg4s/giphy.gif)
 <!--
 **kaue/kaue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
