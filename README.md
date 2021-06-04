@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at **[@OliviaAI](https://github.com/OliviaAI)**
 - 🌱 I’m currently learning **typescript, emacs, vim**
 - 👯 I’m looking to collaborate on **Node.js packages**
-- 📫 How to reach me: **gitter?**
+- 📫 How to reach me: **email?**
 - 💬 Ask me about anything :)
 - ⚡ Fun fact: **I like exploring caves**
 
