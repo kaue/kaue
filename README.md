@@ -8,3 +8,4 @@
 - 💬 Ask me about anything :)
 - ⚡ Fun fact: **I like exploring caves**
 
+[![kaue's github stats](https://github-readme-stats.vercel.app/api?username=kaue&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/kaue)
