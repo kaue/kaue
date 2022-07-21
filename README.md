@@ -1,4 +1,6 @@
-![](https://media0.giphy.com/media/hp4AjXQLO4s0hewg4s/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/hp4AjXQLO4s0hewg4s/giphy.gif">
+</p>
 ### Hi there 👋
 
 - 🔭 I’m currently working at **[@ZupIT](https://github.com/ZupIT)**
