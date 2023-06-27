@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working at **[@ZupIT](https://github.com/ZupIT)**
+- 🔭 I’m currently working at **[@Google](https://github.com/Google)**
 - 🌱 I’m currently learning **typescript, emacs, vim**
 - 👯 I’m looking to collaborate on **Node.js packages**
 - 📫 How to reach me: **email?**
