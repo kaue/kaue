@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at **[@Google](https://github.com/Google)**
-- 🌱 I’m currently learning **typescript, emacs, vim**
+- 🌱 I’m currently learning **go, elisp**
 - 👯 I’m looking to collaborate on **Node.js packages**
 - 📫 How to reach me: **email?**
 - 💬 Ask me about anything :)
